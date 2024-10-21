@@ -1,0 +1,3 @@
+C:/Users/hamza/Desktop/University courses/OS - Hamza Al Shaer/Therd task/cmake-build-debug/CMakeFiles/Therd_task.dir
+C:/Users/hamza/Desktop/University courses/OS - Hamza Al Shaer/Therd task/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamza/Desktop/University courses/OS - Hamza Al Shaer/Therd task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
